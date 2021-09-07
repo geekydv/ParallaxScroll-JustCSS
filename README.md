@@ -1,6 +1,6 @@
 # ParallaxScroll-JustCSS
 Parallax Scrolling Effect using just CSS 
-Webpage Link:
+Web-Link:https://geekydv.github.io/ParallaxScroll-JustCSS/
 Tech Stack used:
 HTML 
 CSS 
