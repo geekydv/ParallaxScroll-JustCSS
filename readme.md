@@ -4,14 +4,15 @@ Webpage Link:https://geekydv.github.io/ParallaxScroll-JustCSS/
 **Purpose**: To showcase the use-case of Parallax Effect by just scrolling the mouse wheel.
 
 
+##  What is Parallax Effect?
+Parallax Effect is very useful when developing a website as it grabs the attention of the user due to visually appealing effect and going through the website till the end.
+
 # Tech-Stack
 
 1)HTML  
 2)CSS \
 3)IDE-Visual Studio Code
 
-##  What is Parallax Effect?
-Parallax Effect is very useful when developing a website as it grabs the attention of the user due to visually appealing effect and going through the website till the end.
 
 ## Some Important Styles that are being used:
 
