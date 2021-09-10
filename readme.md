@@ -7,7 +7,7 @@ Webpage Link:https://geekydv.github.io/ParallaxScroll-JustCSS/
 # Tech-Stack
 
 1)HTML  
-2)CSS
+2)CSS \
 3)IDE-Visual Studio Code
 
 ##  What is Parallax Effect?
