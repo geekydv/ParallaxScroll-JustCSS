@@ -1,9 +1,10 @@
 Topic: CSS Parallax Scrolling Effect\
 Webpage Link:https://geekydv.github.io/ParallaxScroll-JustCSS/  \
 Purpose: To showcase the usecase of Parallax Effect by just scrolling the mouse wheel.\
-Tech Stack used:
+Tech Stack used: \
 1)HTML \
 2)CSS \
+\
 Parallax Effect is very useful when developing a website as it grabs the attention of the user due to visually appealing effect and going throught the website till the end. \
 
 Some Important Styles that are being used: \
