@@ -15,8 +15,10 @@ Parallax Effect is very useful when developing a website as it grabs the attenti
 3)IDE-Visual Studio Code
 
 
-## Some Important Styles that are being used:
-
-"transform-style: preserve-3d;" , "perspective: 2px;" : To present effect of elements being rendered in 3D-space.
-
-"transform: translateZ(-1px) scale(1.5);" , "z-index: -1;" : To present that the content is closer to the user and the background images are moving slower than the actual content.
+## Some Important Styles and Elements that are being used:
+"@keyframes" rule- The animation will gradually change from the current style to the new style at certain times.
+"animation"-background animation on button hover defined to be linear and infinite.
+"z-index" -To make the parallax effect function properly and make the effect visually appealing.
+"transition-delat"-To delay the animation effect by certain time.
+"linear-gradient"-To make the backgound have linear gradient CSS effect.
+"transform:translate()"-The values representing both the co-ordinates of the translating vector. 
