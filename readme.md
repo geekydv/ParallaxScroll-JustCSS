@@ -16,9 +16,9 @@ Parallax Effect is very useful when developing a website as it grabs the attenti
 
 
 ## Some Important Styles and Elements that are being used:
-"@keyframes" rule- The animation will gradually change from the current style to the new style at certain times.
-"animation"-background animation on button hover defined to be linear and infinite.
-"z-index" -To make the parallax effect function properly and make the effect visually appealing.
-"transition-delat"-To delay the animation effect by certain time.
-"linear-gradient"-To make the backgound have linear gradient CSS effect.
+"@keyframes" rule- The animation will gradually change from the current style to the new style at certain times. \
+"animation"-background animation on button hover defined to be linear and infinite. \
+"z-index" -To make the parallax effect function properly and make the effect visually appealing. \
+"transition-delat"-To delay the animation effect by certain time. \
+"linear-gradient"-To make the backgound have linear gradient CSS effect. \
 "transform:translate()"-The values representing both the co-ordinates of the translating vector. 
