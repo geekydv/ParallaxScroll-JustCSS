@@ -110,7 +110,7 @@ h3 {
 }
 .modal {
     position: fixed;
-    background: rgba(255, 255, 255, 0.30);
+    background: rgba(0, 0, 0, 0.295);
     inset: 0;
     z-index: 9999;
     visibility: hidden;
@@ -130,7 +130,8 @@ h3 {
     left: 50%;
     transform: translate(-50%, -50%);
     padding: 2.2em;
-    background: #fff;
+    color: #fff;
+    background: linear-gradient(to left, #2424b6, #ff00cc, #333399 );
     border-radius: 10px;
 }
 .modal h1 {
