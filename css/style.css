@@ -27,14 +27,14 @@ body {
     color: #DAE2F8;
     text-transform: uppercase;
     box-sizing: border-box;
-    background: linear-gradient(90deg, #2424b6, #ff00cc, #ff00cc, #333399);
+    background: linear-gradient(90deg, #2424b6, #ff00cc, #ff00cc,#e8024b, #333399);
     border-radius: 20px;
     background-size: 400%;
     z-index: 1;
 }
 .parabtn:before {
     z-index: -1;
-    background: linear-gradient(90deg, #2424b6, #ff00cc, #ff00cc, #333399);
+    background: linear-gradient(90deg, #2424b6, #ff00cc, #ff00cc,#e8024b, #333399);
     background-size: 400%;
     opacity: 0;
     transition: 0.1s;
@@ -45,7 +45,7 @@ body {
     animation: animate 8s linear infinite;
 }
 .parabtn:hover {
-    box-shadow: 0 0 10px #2424b6, 0 0 40px #333399, 0 0 80px #ff00cc;
+    box-shadow: 0 0 10px #2424b6, 0 0 40px #333399,0 0 80px #e8024b, 0 0 80px #ff00cc;
     transition-delay: 0.1s;
     cursor: pointer;
     background-size: 400%;
@@ -89,7 +89,7 @@ h3 {
 .para {
     padding: 50px;
     height: 400px;
-    background: linear-gradient(to left, #2424b6, #ff00cc, #333399 );
+    background: linear-gradient(to left, #3104b8,#e8024b, #b50daf, #121288 );
     font-size: 20px;
     line-height: 1.8em;
 
@@ -104,7 +104,7 @@ h3 {
 .para-last {
     padding: 50px;
     height: 40px;
-    background: linear-gradient(to left, #2424b6, #ff00cc, #333399);
+    background: linear-gradient(to left, #3104b8,#e8024b, #b50daf, #121288 );
     font-size: 20px;
     text-align: center;
 }
@@ -131,7 +131,7 @@ h3 {
     transform: translate(-50%, -50%);
     padding: 2.2em;
     color: #fff;
-    background: linear-gradient(to left, #2424b6, #ff00cc, #333399 );
+    background: linear-gradient(to left, #3104b8,#e8024b, #b50daf, #121288 );
     border-radius: 10px;
 }
 .modal h1 {
@@ -159,6 +159,7 @@ h3 {
     height: 20px;
 }
 .modal a {
+    color: #fff;
     text-decoration: none;
 }
 .modal table {
